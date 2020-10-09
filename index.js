@@ -1,4 +1,4 @@
-export const artists = [
+const artists = [
     {
       "id": 0,
       "name": "Amedeo Modigliani",
